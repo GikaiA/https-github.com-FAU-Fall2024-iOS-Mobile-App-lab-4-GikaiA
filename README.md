@@ -1,4 +1,3 @@
-# lab-4-GikaiA
 # lab 4 - *Flashcard5*
 
 Submitted by: **Gikai Andrews**
