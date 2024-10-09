@@ -1,6 +1,8 @@
 # lab 4 - *Flashcard5*
 
 Submitted by: **Gikai Andrews**
+*Z23585254*
+*10/8/24*
 
 ## Required Features
 The following **required** functionality is completed:
